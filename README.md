@@ -14,13 +14,11 @@ Este projeto gera uma senha de **8 caracteres aleatórios**, combinando letras, 
 ## 🚀 Como Usar
 
 1. **Clone o repositório:**
-   (git clone https://github.com/seu-usuario/gerador-de-senha.git)
+   (git clone https://github.com/MariaEduardaTBuonafina/Gerador-de-senhas.git)
 
 2. **Acesse o diretório:**
-   (cd gerador-de-senha)
 
 3. **Execute o script:**
-   (python gerador_senha.py)
 
 4. **Resultado esperado:**
    (--------------------  
